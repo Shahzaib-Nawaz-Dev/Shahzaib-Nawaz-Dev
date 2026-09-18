@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Shahzaib Nawaz 👋
 
-<!--
-**Shahzaib-Nawaz-Dev/Shahzaib-Nawaz-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Software Developer
 
-Here are some ideas to get you started:
+I'm a Software Engineering student interested in building practical,
+scalable and user-focused software applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Areas I Work With
+
+- Mobile App Development — Flutter & Dart
+- Web Development — HTML, CSS, JavaScript, PHP & Laravel
+- Programming — Python, C/C++
+- Databases — SQL & Database Systems
+- Artificial Intelligence & Machine Learning
+- Information Security
+- Software Design & Architecture
+- Operating Systems & Computer Networks
+
+### 🛠️ Technologies & Tools
+
+Python • Flutter • Dart • C++ • HTML • CSS • JavaScript  
+PHP • Laravel • SQL • Firebase • Git • GitHub • Android Studio
+
+### 🚀 Currently
+
+Learning, building projects, improving my software engineering skills,
+and exploring real-world development practices.
+
+### 📫 Connect With Me
+
+Email: shahzaib.nawaz.developer@gmail.com
